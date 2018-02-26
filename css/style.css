@@ -1,0 +1,13 @@
+@charset "utf-8";
+body{
+	background-color: #cfcfcf;
+}
+.head{
+	margin: auto;
+	width: 900px;
+	height: 500px;
+	padding: 10px;
+	background-color: #ffffff;
+	border-radius:5px;
+	box-shadow: 0px 0px 50px #000000;	
+}
